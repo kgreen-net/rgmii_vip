@@ -1,0 +1,27 @@
+# Simulator build/output artifacts
+simv
+simv.daidir/
+csrc/
+*.vdb/
+work/
+transcript
+vsim.wlf
+xcelium.d/
+xrun.history
+xrun.log
+*.vcd
+*.fsdb
+*.shm/
+*.log
+.Xil/
+ucli.key
+*.key
+INCA_libs/
+waves/
+coverage/
+cov_work/
+urgReport/
+*.simvision/
+
+# Claude Code local settings
+.claude/
